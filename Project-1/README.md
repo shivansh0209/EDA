@@ -191,7 +191,6 @@ Analyzed temporal patterns using order purchase dates.
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
@@ -208,12 +207,7 @@ Brazilian-Ecommerce-EDA/
 ├── notebooks/
 │   └── ecommerce_eda.ipynb
 │
-├── outputs/
-│   ├── figures/
-│   └── reports/
-│
 ├── README.md
-└── requirements.txt
 ```
 
 ---
